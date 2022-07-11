@@ -1,6 +1,5 @@
 table
 {
-  margin-top: 10%;
   margin-left: 25%;
   margin-right: 25%;
   width: 80%;
@@ -18,4 +17,9 @@ td
   text-align: center;
   vertical-align: middle;
   border-style: solid;
+}
+h1
+{
+  text-align: center;
+  margin-top: 10%;
 }
